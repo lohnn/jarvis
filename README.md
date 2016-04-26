@@ -5,4 +5,5 @@ To run this, you first need to install [Tensorflow](https://www.tensorflow.org/v
 Then just run main.py
 
 python main.py
+
 python3 main.py
